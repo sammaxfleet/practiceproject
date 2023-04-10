@@ -7,4 +7,4 @@ assignees: sammaxfleet
 
 ---
 
-A form for the user to fill out to be able to be a member of this fashion blog.
+As a **role**  I can **capability**, so that **received benefit**
