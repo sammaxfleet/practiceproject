@@ -8,3 +8,9 @@ assignees: sammaxfleet
 ---
 
 As a **role**  I can **capability**, so that **received benefit**
+
+
+Tasks 
+- [x] Task1
+- [ ] Task2
+- [ ] Task3
